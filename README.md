@@ -6,8 +6,7 @@ The effective population of a species is then calculated based off the populatio
 census sizes of real populations into the size of an idealized population showing the same rate of loss of genetic diversity as the real population 
 under study. 
 
-Our model then calculates the mutation rates based off the effective population.Our theoretical models will then be compared to actual data from 
-peer reviewed journals, which will show us how accurate our models are and give the scientific community more insight into effective population.
+Our model then calculates the mutation rates based off the effective population. Our theoretical models will then be compared to actual data from peer reviewed journals, which will show us how accurate our models are and give the scientific community more insight into effective population.
 
 ```
 Effective Population: 
